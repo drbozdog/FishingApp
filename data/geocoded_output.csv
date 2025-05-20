@@ -1,0 +1,1144 @@
+County,Habitat,Limits,Length_surface,Association,Contract,start_point_latitude,start_point_longitude,end_point_latitude,end_point_longitude,raw_geocoding_result,processing_status,error_message
+ALBA,Râul Mureș,Stâna de Mureș- Băcăinți,115 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,,,,,"{""start_point_latitude"": null, ""start_point_longitude"": null, ""end_point_latitude"": null, ""end_point_longitude"": null}",succeeded,
+ALBA,Râul Mureș,Stâna de Mureș- Băcăinți,115 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.4,23.9333,45.9302,23.2883,"{""start_point_latitude"": 46.4, ""start_point_longitude"": 23.9333, ""end_point_latitude"": 45.9302, ""end_point_longitude"": 23.2883}",succeeded,
+ALBA,Râul Târnava Mare,Valea Lungă-conf. râul Mureș,44 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.1258,24.0453,46.25,23.25,"{""start_point_latitude"": 46.1258, ""start_point_longitude"": 24.0453, ""end_point_latitude"": 46.25, ""end_point_longitude"": 23.25}",succeeded,
+ALBA,Râul Ampoi,Zlatna - conf. râul Mureș,35 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.11135,23.22472,46.076,23.58,"{""start_point_latitude"": 46.11135, ""start_point_longitude"": 23.22472, ""end_point_latitude"": 46.076, ""end_point_longitude"": 23.58}",succeeded,
+ALBA,Râul Cugir,"Cugir 15 Km, de la loc. Cugir - conf. râul Mureș",15 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,45.8363,23.3744,45.9411,23.3362,"{""start_point_latitude"": 45.8363, ""start_point_longitude"": 23.3744, ""end_point_latitude"": 45.9411, ""end_point_longitude"": 23.3362}",succeeded,
+ALBA,Râul Sebeș,acumulare Petrești- conf. râul Mureș,17 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,45.93,23.54,46.04028,23.55889,"{""start_point_latitude"": 45.93, ""start_point_longitude"": 23.54, ""end_point_latitude"": 46.04028, ""end_point_longitude"": 23.55889}",succeeded,
+ALBA,Râul Târnava Mică,Cetatea de Baltă – Blaj,23 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.24794,24.17245,46.17416,23.92248,"{""start_point_latitude"": 46.24794, ""start_point_longitude"": 24.17245, ""end_point_latitude"": 46.17416, ""end_point_longitude"": 23.92248}",succeeded,
+ALBA,Râul Secaș,Roșia de Secaș – Obreja,10 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.05695,23.88865,46.17429,23.76406,"{""start_point_latitude"": 46.05695, ""start_point_longitude"": 23.88865, ""end_point_latitude"": 46.17429, ""end_point_longitude"": 23.76406}",succeeded,
+ALBA,Mihoești,"Mihoești, comuna Câmpeni",98 Ha,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.4156,23.0251,46.3256,23.0251,"{""start_point_latitude"": 46.4156, ""start_point_longitude"": 23.0251, ""end_point_latitude"": 46.3256, ""end_point_longitude"": 23.0251}",succeeded,
+ALBA,Râul Arieș,Baia de Arieș – Vidolm,30 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.38025,23.28121,46.48062,23.51182,"{""start_point_latitude"": 46.38025, ""start_point_longitude"": 23.28121, ""end_point_latitude"": 46.48062, ""end_point_longitude"": 23.51182}",succeeded,
+ALBA,Râul Poșaga,Conf. pârâul Săgagea – conf. Râul Arieșul Mare,10 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.44,23.43,46.425,23.445,"{""start_point_latitude"": 46.44, ""start_point_longitude"": 23.43, ""end_point_latitude"": 46.425, ""end_point_longitude"": 23.445}",succeeded,
+ALBA,Râul Sălciuța,Fundata – conf. Râul Arieșul Mare,10 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.47,23.11,46.41,23.05,"{""start_point_latitude"": 46.47, ""start_point_longitude"": 23.11, ""end_point_latitude"": 46.41, ""end_point_longitude"": 23.05}",succeeded,
+ALBA,Râul Ocoliș,Pod Lunca Largă – conf. Râul Arieșul,8 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.52609,23.4215,46.47874,23.46608,"{""start_point_latitude"": 46.52609, ""start_point_longitude"": 23.4215, ""end_point_latitude"": 46.47874, ""end_point_longitude"": 23.46608}",succeeded,
+ALBA,Râul Mogoș  - Cotu,Izvoare – limită cu O.S. Aiud,10 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.385,23.208,46.318,23.209,"{""start_point_latitude"": 46.385, ""start_point_longitude"": 23.208, ""end_point_latitude"": 46.318, ""end_point_longitude"": 23.209}",succeeded,
+ALBA,Valea Bistrei,Izvoare – vărsare în râul Arieș,21 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.397,22.903,46.337,23.053,"{""start_point_latitude"": 46.397, ""start_point_longitude"": 22.903, ""end_point_latitude"": 46.337, ""end_point_longitude"": 23.053}",succeeded,
+ALBA,Valea Bistricioarei,Izvoare – vărsare în râul Arieș,18 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.55,22.75,46.445,22.9,"{""start_point_latitude"": 46.55, ""start_point_longitude"": 22.75, ""end_point_latitude"": 46.445, ""end_point_longitude"": 22.9}",succeeded,
+ALBA,Valea Caselor,Izvoare – vărsare în râul Arieș,13 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.35,23.2,46.28,23.25,"{""start_point_latitude"": 46.35, ""start_point_longitude"": 23.2, ""end_point_latitude"": 46.28, ""end_point_longitude"": 23.25}",succeeded,
+ALBA,Valea Sartășului,Izvoare – vărsare în râul Arieș,9 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.446,23.374,46.365,23.257,"{""start_point_latitude"": 46.446, ""start_point_longitude"": 23.374, ""end_point_latitude"": 46.365, ""end_point_longitude"": 23.257}",succeeded,
+ALBA,Valea Morilor,Huda lui Papară - Izvoare – vărsare în râul Arieș,3 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.38111,23.38111,46.40583,23.44556,"{""start_point_latitude"": 46.38111, ""start_point_longitude"": 23.38111, ""end_point_latitude"": 46.40583, ""end_point_longitude"": 23.44556}",succeeded,
+ALBA,Râul Vălișoara,Izvoare până la Cheile Aiudului,31 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,46.3652,23.6031,46.3743,23.5836,"{""start_point_latitude"": 46.3652, ""start_point_longitude"": 23.6031, ""end_point_latitude"": 46.3743, ""end_point_longitude"": 23.5836}",succeeded,
+ALBA,Râul Pian,Izvoare – Pod CFR,34 Km,"AJVPS ALBA 
+cu sediul în 
+localitatea Alba Iulia, 
+str. Calea Moților, nr. 
+6, județ Alba",44/26.10.2017,45.98,23.52,45.927,23.492,"{""start_point_latitude"": 45.98, ""start_point_longitude"": 23.52, ""end_point_latitude"": 45.927, ""end_point_longitude"": 23.492}",succeeded,
+ALBA,Râul Geoagiu Superior,izvoare până la Cheile Râmeț,9 Km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",68/26.07.2018,46.366,23.523,46.2959,23.464,"{""start_point_latitude"": 46.366, ""start_point_longitude"": 23.523, ""end_point_latitude"": 46.2959, ""end_point_longitude"": 23.464}",succeeded,
+ALBA,Râul Geoagiu Inferior,Cheile Râmeț – conf. râul Mureș,28 Km,"CS HUNEDOARA 
+cu sediul în  
+localitatea Călan, sat 
+Strei, Ferma Piscicolă 
+F.N., județ Hunedoara",60/26.07.2018,46.2959,23.464,45.9763,23.1489,"{""start_point_latitude"": 46.2959, ""start_point_longitude"": 23.464, ""end_point_latitude"": 45.9763, ""end_point_longitude"": 23.1489}",succeeded,
+ARAD,Canalele din zona Turnu,Județ Arad,,"AVPS DIANA TURNU 
+ARAD 
+cu sediul în  
+localitatea Arad, str. 
+Calea Aurel Vlaicu, 
+nr. 150, bl. Z 27 B, 
+parter, județ Arad",42/14.11.2017,46.37,21.58,46.27,21.68,"{""start_point_latitude"": 46.37, ""start_point_longitude"": 21.58, ""end_point_latitude"": 46.27, ""end_point_longitude"": 21.68}",succeeded,
+ARAD,Balta Ghilin I și II,Județ Arad,,"AJVPS ARAD 
+cu sediul în  
+localitatea Arad, str.",29/ 09.10. 2017,46.12717,21.26239,46.22717,21.36239,"{""start_point_latitude"": 46.12717, ""start_point_longitude"": 21.26239, ""end_point_latitude"": 46.22717, ""end_point_longitude"": 21.36239}",succeeded,
+ARAD,Balta Cicir,Județ Arad,6 Ha,"AJVPS ARAD 
+cu sediul în  
+localitatea Arad, str.",74/26.07.2018,46.095,21.4307,46.1955,21.5307,"{""start_point_latitude"": 46.095, ""start_point_longitude"": 21.4307, ""end_point_latitude"": 46.1955, ""end_point_longitude"": 21.5307}",succeeded,
+ARAD,"Canalele hidroameliorative 
+Socodor",Județ Arad,,"AJVPS ARAD 
+cu sediul în  
+localitatea Arad, str.",74/26.07.2018,46.1,21.745,46.2,21.895,"{""start_point_latitude"": 46.1, ""start_point_longitude"": 21.745, ""end_point_latitude"": 46.2, ""end_point_longitude"": 21.895}",succeeded,
+ARAD,Balta Căpâlnaș,Localitatea  Căpâlnaș,2 Ha,"Mărășești, nr. 6, județ 
+Arad",95/10.01.2024,45.978,22.22,45.971,22.227,"{""start_point_latitude"": 45.978, ""start_point_longitude"": 22.22, ""end_point_latitude"": 45.971, ""end_point_longitude"": 22.227}",succeeded,
+ARAD,Canalul Morilor,"Canal artificial, din Râul Crișul Alb",92 Km,"Mărășești, nr. 6, județ 
+Arad",95/10.01.2024,46.32102,22.16005,46.61758,21.34489,"{""start_point_latitude"": 46.32102, ""start_point_longitude"": 22.16005, ""end_point_latitude"": 46.61758, ""end_point_longitude"": 21.34489}",succeeded,
+ARAD,Lac Copilul,Localitatea Ineu,5Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.38099,21.77469,46.47099,21.90869,"{""start_point_latitude"": 46.38099, ""start_point_longitude"": 21.77469, ""end_point_latitude"": 46.47099, ""end_point_longitude"": 21.90869}",succeeded,
+ARAD,Lac Mișca,Localitatea Mișca,12Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.6175,21.65,46.626,21.66,"{""start_point_latitude"": 46.6175, ""start_point_longitude"": 21.65, ""end_point_latitude"": 46.626, ""end_point_longitude"": 21.66}",succeeded,
+ARAD,Lac Chișineu-Criș,Localitatea Chișineu-Criș,5Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.529,21.502,46.52,21.533,"{""start_point_latitude"": 46.529, ""start_point_longitude"": 21.502, ""end_point_latitude"": 46.52, ""end_point_longitude"": 21.533}",succeeded,
+ARAD,Lac Pâncota,Localitatea Pâncota,3Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.16,21.92,46.18,21.95,"{""start_point_latitude"": 46.16, ""start_point_longitude"": 21.92, ""end_point_latitude"": 46.18, ""end_point_longitude"": 21.95}",succeeded,
+ARAD,Lac Zădăreni,Localitatea Felnac,12Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.0717,21.085,46.1773,21.284,"{""start_point_latitude"": 46.0717, ""start_point_longitude"": 21.085, ""end_point_latitude"": 46.1773, ""end_point_longitude"": 21.284}",succeeded,
+ARAD,Lac Mortărel,Localitatea Tudor Vladimirescu,18Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.187,21.312,46.176,21.327,"{""start_point_latitude"": 46.187, ""start_point_longitude"": 21.312, ""end_point_latitude"": 46.176, ""end_point_longitude"": 21.327}",succeeded,
+ARAD,Lac  Hortop,Localitatea Tudor Vladimirescu,3Ha,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.183,21.355,46.173,21.365,"{""start_point_latitude"": 46.183, ""start_point_longitude"": 21.355, ""end_point_latitude"": 46.173, ""end_point_longitude"": 21.365}",succeeded,
+ARAD,Râul Mureș,"Localitatea Pietriș-Frontieră cu Ungaria 
+ cu afluenții",397km,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.092686,22.380894,46.13389,20.58333,"{""start_point_latitude"": 46.092686, ""start_point_longitude"": 22.380894, ""end_point_latitude"": 46.13389, ""end_point_longitude"": 20.58333}",succeeded,
+ARAD,Râul Crișul Alb,"Localitatea Ionești- Frontieră cu Ungaria 
+ cu afluenții",566km,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.23496,22.55686,46.61758,21.34489,"{""start_point_latitude"": 46.23496, ""start_point_longitude"": 22.55686, ""end_point_latitude"": 46.61758, ""end_point_longitude"": 21.34489}",succeeded,
+ARAD,Râul Crișul Negru,"Localitatea Vânători - Frontieră cu Ungaria 
+cu afluenții",214km,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.62456,21.67332,46.68,21.32,"{""start_point_latitude"": 46.62456, ""start_point_longitude"": 21.67332, ""end_point_latitude"": 46.68, ""end_point_longitude"": 21.32}",succeeded,
+ARAD,Râul Aranca,Izvoare-Frontieră cu Ungaria,30km,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.13,21.01,46.23,20.57,"{""start_point_latitude"": 46.13, ""start_point_longitude"": 21.01, ""end_point_latitude"": 46.23, ""end_point_longitude"": 20.57}",succeeded,
+ARAD,Râul Ierul,Izvoare-Frontieră cu Ungaria,43km,"Mărășești, nr. 6, județ 
+Arad","1/22.02.1987 
+ACT ADIȚIONAL 
+NR. 5/16.12.2020",46.7985,21.3052,46.231,20.1187,"{""start_point_latitude"": 46.7985, ""start_point_longitude"": 21.3052, ""end_point_latitude"": 46.231, ""end_point_longitude"": 20.1187}",succeeded,
+ARGEȘ,Râul Bratia inferior,"Aval pod Berevoești  – conf. cu râul Târgului 
+(comuna Titești)",34 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.2266,24.935,45.01,24.9891,"{""start_point_latitude"": 45.2266, ""start_point_longitude"": 24.935, ""end_point_latitude"": 45.01, ""end_point_longitude"": 24.9891}",succeeded,
+ARGEȘ,Râul Argeș,"Comuna Oiești – limita jud. (comuna Pătroaia, 
+jud. Dâmbovița)",87 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.004,24.863,44.744,25.208,"{""start_point_latitude"": 45.004, ""start_point_longitude"": 24.863, ""end_point_latitude"": 44.744, ""end_point_longitude"": 25.208}",succeeded,
+ARGEȘ,Râul Vâlsan inferior,"Aval podul din comuna Mușetești – conf. râul 
+Argeș","19,2 Km","AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.15,23.4667,44.95,24.75,"{""start_point_latitude"": 45.15, ""start_point_longitude"": 23.4667, ""end_point_latitude"": 44.95, ""end_point_longitude"": 24.75}",succeeded,
+ARGEȘ,Râul Argeșel inferior,"Comuna Valea Mare - Pravăț  – conf. râul 
+Târgului",80 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.31117,25.11453,44.95681,24.9372,"{""start_point_latitude"": 45.31117, ""start_point_longitude"": 25.11453, ""end_point_latitude"": 44.95681, ""end_point_longitude"": 24.9372}",succeeded,
+ARGEȘ,Râul Doamnei inferior,Pod  Domnești – conf. râul Argeș,40 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.20889,24.83972,44.85,24.865,"{""start_point_latitude"": 45.20889, ""start_point_longitude"": 24.83972, ""end_point_latitude"": 44.85, ""end_point_longitude"": 24.865}",succeeded,
+ARGEȘ,Râul Târgului inferior,Uzina de apă Câmpulung – conf. râul Doamnei,43 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.2698,25.0439,44.9354,24.9088,"{""start_point_latitude"": 45.2698, ""start_point_longitude"": 25.0439, ""end_point_latitude"": 44.9354, ""end_point_longitude"": 24.9088}",succeeded,
+ARGEȘ,Râul Târgului mijlociu,Aval baraj Râușor – uzina de apă Câmpulung,16 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.393824,25.062729,45.267,25.05,"{""start_point_latitude"": 45.393824, ""start_point_longitude"": 25.062729, ""end_point_latitude"": 45.267, ""end_point_longitude"": 25.05}",succeeded,
+ARGEȘ,Lac acumulare Curtea de Argeș,Curtea de Argeș,35 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.1594,24.6837,45.1486,24.7032,"{""start_point_latitude"": 45.1594, ""start_point_longitude"": 24.6837, ""end_point_latitude"": 45.1486, ""end_point_longitude"": 24.7032}",succeeded,
+ARGEȘ,Lac acumulare Zigoneni,Băiculești - Zigoneni,65 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.0718,24.6881,45.0907,24.6768,"{""start_point_latitude"": 45.0718, ""start_point_longitude"": 24.6881, ""end_point_latitude"": 45.0907, ""end_point_longitude"": 24.6768}",succeeded,
+ARGEȘ,Lac acumulare Vâlcele,Merișani - Vâlcele,460 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,44.9689,24.7446,45.008,24.7236,"{""start_point_latitude"": 44.9689, ""start_point_longitude"": 24.7446, ""end_point_latitude"": 45.008, ""end_point_longitude"": 24.7236}",succeeded,
+ARGEȘ,Lac acumulare Bascov,Bascov,180 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,44.5038,24.5565,44.5838,24.6365,"{""start_point_latitude"": 44.5038, ""start_point_longitude"": 24.5565, ""end_point_latitude"": 44.5838, ""end_point_longitude"": 24.6365}",succeeded,
+ARGEȘ,Lac acumulare Pitești,Pitești,120 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,44.852,24.94,44.816,25.0,"{""start_point_latitude"": 44.852, ""start_point_longitude"": 24.94, ""end_point_latitude"": 44.816, ""end_point_longitude"": 25.0}",succeeded,
+ARGEȘ,Lac acumulare Budeasa,Budeasa,384 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,44.9582,24.7659,44.8682,24.8919,"{""start_point_latitude"": 44.9582, ""start_point_longitude"": 24.7659, ""end_point_latitude"": 44.8682, ""end_point_longitude"": 24.8919}",succeeded,
+ARGEȘ,Lac acumulare Golești,Golești,634 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,44.8358191,24.952479,44.7998191,24.988479,"{""start_point_latitude"": 44.8358191, ""start_point_longitude"": 24.952479, ""end_point_latitude"": 44.7998191, ""end_point_longitude"": 24.988479}",succeeded,
+ARGEȘ,Lac acumulare Râușor,Județ Argeș,160 Ha,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.393824,25.062729,45.433,25.065,"{""start_point_latitude"": 45.393824, ""start_point_longitude"": 25.062729, ""end_point_latitude"": 45.433, ""end_point_longitude"": 25.065}",succeeded,
+ARGEȘ,Râul Dâmbovița mijlocie,Dragoslavele – Malul cu Flori,18 Km,"AJVPS ARGEȘ 
+cu sediul în  
+localitatea Pitești, 
+str. Mihai Viteazu, nr. 
+29, județ  Argeș",39/18.10.2017,45.34808,25.16914,45.14611,25.21556,"{""start_point_latitude"": 45.34808, ""start_point_longitude"": 25.16914, ""end_point_latitude"": 45.14611, ""end_point_longitude"": 25.21556}",succeeded,
+ARGEȘ,Râul Vâslan mijlociu,baraj Dobroneanu – comuna Brădet,12 Km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",68/26.07.2018,45.38,24.712,45.31,24.762,"{""start_point_latitude"": 45.38, ""start_point_longitude"": 24.712, ""end_point_latitude"": 45.31, ""end_point_longitude"": 24.762}",succeeded,
+ARGEȘ,Râul Târgului superior,izvoare – baraj Râușor,23 Km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",68/26.07.2018,45.4667,24.95,45.3938,25.0627,"{""start_point_latitude"": 45.4667, ""start_point_longitude"": 24.95, ""end_point_latitude"": 45.3938, ""end_point_longitude"": 25.0627}",succeeded,
+ARGEȘ,Râul Dâmbovița superioară,baraj Pecineagu – schitul Dragoslavele,40 Km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",68/26.07.2018,45.5657,25.0947,45.3481,25.1594,"{""start_point_latitude"": 45.5657, ""start_point_longitude"": 25.0947, ""end_point_latitude"": 45.3481, ""end_point_longitude"": 25.1594}",succeeded,
+ARGEȘ,Lac acumulare Pecineagu,,163 Ha,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",68/26.07.2018,45.586,25.045,45.56572,25.0947,"{""start_point_latitude"": 45.586, ""start_point_longitude"": 25.045, ""end_point_latitude"": 45.56572, ""end_point_longitude"": 25.0947}",succeeded,
+ARGEȘ,Râul Argeșel superior,Izvoare – comuna Valea Mare–Pravăț,11Km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",83/11.04.2019,45.273,25.114,45.292,25.0924,"{""start_point_latitude"": 45.273, ""start_point_longitude"": 25.114, ""end_point_latitude"": 45.292, ""end_point_longitude"": 25.0924}",succeeded,
+ARGEȘ,Râul  Doamnei superior,Izvoare - baraj Baciu,55Km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",83/11.04.2019,45.353,24.813,45.467,24.85,"{""start_point_latitude"": 45.353, ""start_point_longitude"": 24.813, ""end_point_latitude"": 45.467, ""end_point_longitude"": 24.85}",succeeded,
+ARGEȘ,Râul Bughea,Izvoare – conf. râul Târgului,39 km,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",83/11.04.2019,44.9158,24.8365,45.1422,25.0011,"{""start_point_latitude"": 44.9158, ""start_point_longitude"": 24.8365, ""end_point_latitude"": 45.1422, ""end_point_longitude"": 25.0011}",succeeded,
+BACĂU,Acumulare Galbeni,Nicolae Bălcescu-Galbeni,250 ha,"A. Centrul Regional 
+de Ecologie BACĂU 
+cu sediul în  
+localitatea Bacău, str. 
+Livezilor, nr. 4F, 
+județ Bacău",20/19.09.2017,46.47815,26.91846,46.45661,26.94664,"{""start_point_latitude"": 46.47815, ""start_point_longitude"": 26.91846, ""end_point_latitude"": 46.45661, ""end_point_longitude"": 26.94664}",succeeded,
+BACĂU,Acumulare Bacău II,Bacău,202 ha,"A. Centrul Regional 
+de Ecologie BACĂU 
+cu sediul în  
+localitatea Bacău, str. 
+Livezilor, nr. 4F, 
+județ Bacău",20/19.09.2017,46.57306,26.90736,46.59306,26.93736,"{""start_point_latitude"": 46.57306, ""start_point_longitude"": 26.90736, ""end_point_latitude"": 46.59306, ""end_point_longitude"": 26.93736}",succeeded,
+BACĂU,Râul  Siret,"intrare județ Bacău - ieșire din județ Bacău 
+fără lacurile de acumulare",119 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.89,26.93,45.9,27.02,"{""start_point_latitude"": 46.89, ""start_point_longitude"": 26.93, ""end_point_latitude"": 45.9, ""end_point_longitude"": 27.02}",succeeded,
+BACĂU,Râul Bistrița,limita jud. Bacău - conf. Râul  Siret,39 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.72,26.36,46.5333,26.9167,"{""start_point_latitude"": 46.72, ""start_point_longitude"": 26.36, ""end_point_latitude"": 46.5333, ""end_point_longitude"": 26.9167}",succeeded,
+BACĂU,Râul Tazlău,limita județ - conf. Râul  Trotuș,63 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.5086,26.6694,46.2775,26.8042,"{""start_point_latitude"": 46.5086, ""start_point_longitude"": 26.6694, ""end_point_latitude"": 46.2775, ""end_point_longitude"": 26.8042}",succeeded,
+BACĂU,Râul Tazlăul Sărat,izvoare - conf. cu Râul Tazlău,47 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.65778,26.325,46.50861,26.66944,"{""start_point_latitude"": 46.65778, ""start_point_longitude"": 26.325, ""end_point_latitude"": 46.50861, ""end_point_longitude"": 26.66944}",succeeded,
+BACĂU,Râul Trotuș,"limita jud. Harghita - vărsare Râul Siret (limita 
+jud. Vrancea)",125 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.59,26.03,46.1005,27.181,"{""start_point_latitude"": 46.59, ""start_point_longitude"": 26.03, ""end_point_latitude"": 46.1005, ""end_point_longitude"": 27.181}",succeeded,
+BACĂU,Râul Sulta,izvoare- conf. Râul Trotuș,25 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.57,26.08,46.473,26.248,"{""start_point_latitude"": 46.57, ""start_point_longitude"": 26.08, ""end_point_latitude"": 46.473, ""end_point_longitude"": 26.248}",succeeded,
+BACĂU,Râul Ciobănuș,izvoare- conf. Râul Trotuș,30 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.3886,26.0675,46.4453,26.3384,"{""start_point_latitude"": 46.3886, ""start_point_longitude"": 26.0675, ""end_point_latitude"": 46.4453, ""end_point_longitude"": 26.3384}",succeeded,
+BACĂU,Râul Asău,izvoare- conf. Râul Trotuș,40 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.28,26.15,46.33,26.36,"{""start_point_latitude"": 46.28, ""start_point_longitude"": 26.15, ""end_point_latitude"": 46.33, ""end_point_longitude"": 26.36}",succeeded,
+BACĂU,Râul Uzul,"limita de județ Bacău - conf. Râul Trotuș (fără 
+lacul Poiana Uzului)",17 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.3432,26.2528,46.369,26.4705,"{""start_point_latitude"": 46.3432, ""start_point_longitude"": 26.2528, ""end_point_latitude"": 46.369, ""end_point_longitude"": 26.4705}",succeeded,
+BACĂU,Râul Slănic Moldova,izvoare- conf. Râul Trotuș,37 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.35,26.5,46.2798,26.6094,"{""start_point_latitude"": 46.35, ""start_point_longitude"": 26.5, ""end_point_latitude"": 46.2798, ""end_point_longitude"": 26.6094}",succeeded,
+BACĂU,Râul Casinul inferior,conf. Pârâul Cărăsău - conf. Râul Trotuș,68 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.4,26.45,46.304,26.905,"{""start_point_latitude"": 46.4, ""start_point_longitude"": 26.45, ""end_point_latitude"": 46.304, ""end_point_longitude"": 26.905}",succeeded,
+BACĂU,Râul Oituzul Moldovenesc,limita jud. Covasna – conf. Râul Trotuș,50 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.20389,26.62306,46.25203,26.77021,"{""start_point_latitude"": 46.20389, ""start_point_longitude"": 26.62306, ""end_point_latitude"": 46.25203, ""end_point_longitude"": 26.77021}",succeeded,
+BACĂU,Pârâul  Lesuntu,izvoare - conf. Râul Oituz,20 km,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.32,26.09,46.34,26.3,"{""start_point_latitude"": 46.32, ""start_point_longitude"": 26.09, ""end_point_latitude"": 46.34, ""end_point_longitude"": 26.3}",succeeded,
+BACĂU,Acumulare Gârleni,Gârleni - Surina,200 ha,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.6582286,26.8078973,46.6735279,26.791795,"{""start_point_latitude"": 46.6582286, ""start_point_longitude"": 26.8078973, ""end_point_latitude"": 46.6735279, ""end_point_longitude"": 26.791795}",succeeded,
+BACĂU,Acumulare Lilieci,Hemeiuș  - Lilieci,262 ha,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.626426,26.854396,46.62861,26.871765,"{""start_point_latitude"": 46.626426, ""start_point_longitude"": 26.854396, ""end_point_latitude"": 46.62861, ""end_point_longitude"": 26.871765}",succeeded,
+BACĂU,Acumulare Agrement,Bacău,50 ha,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.587,26.885,46.562,26.915,"{""start_point_latitude"": 46.587, ""start_point_longitude"": 26.885, ""end_point_latitude"": 46.562, ""end_point_longitude"": 26.915}",succeeded,
+BACĂU,Acumulare Răcăciuni,Răcăciuni,1700 ha,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.23,26.97,46.42,27.12,"{""start_point_latitude"": 46.23, ""start_point_longitude"": 26.97, ""end_point_latitude"": 46.42, ""end_point_longitude"": 27.12}",succeeded,
+BACĂU,Acumulare Berești,Sascut - Berești,1800 ha,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.20748,27.11033,46.20329,27.14476,"{""start_point_latitude"": 46.20748, ""start_point_longitude"": 27.11033, ""end_point_latitude"": 46.20329, ""end_point_longitude"": 27.14476}",succeeded,
+BACĂU,Lac Poiana Uzului,Dărmănești,350 ha,"AJVPS BACĂU 
+cu sediul în  
+localitatea Bacău str. 
+Mihai Viteazu, nr. 4, 
+județ Bacău",33/11.10.2017,46.331,26.363,46.369,26.471,"{""start_point_latitude"": 46.331, ""start_point_longitude"": 26.363, ""end_point_latitude"": 46.369, ""end_point_longitude"": 26.471}",succeeded,
+BIHOR,Valea Vida,Valea Vida,24 Km,"AV VIDA SURDUCEL 
+DOBREȘTI",38 /18.10. 2017,46.8,22.3,46.71,22.13,"{""start_point_latitude"": 46.8, ""start_point_longitude"": 22.3, ""end_point_latitude"": 46.71, ""end_point_longitude"": 22.13}",succeeded,
+BIHOR,Lacul Toplița,Lacul Toplița,"4,5 Ha","AV VIDA SURDUCEL 
+DOBREȘTI",38 /18.10. 2017,45.685,22.868,45.691,22.878,"{""start_point_latitude"": 45.685, ""start_point_longitude"": 22.868, ""end_point_latitude"": 45.691, ""end_point_longitude"": 22.878}",succeeded,
+BIHOR,Râul Crișul Repede,Vadul Crișului – frontieră cu Ungaria,80 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.98583,22.51667,47.11694,21.80222,"{""start_point_latitude"": 46.98583, ""start_point_longitude"": 22.51667, ""end_point_latitude"": 47.11694, ""end_point_longitude"": 21.80222}",succeeded,
+BIHOR,Râul Crișul Negru,Beiuș – frontieră cu Ungaria,82 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.66675,22.35271,46.64,21.4,"{""start_point_latitude"": 46.66675, ""start_point_longitude"": 22.35271, ""end_point_latitude"": 46.64, ""end_point_longitude"": 21.4}",succeeded,
+BIHOR,Râul Barcău,Suplacul de Barcău – frontieră cu Ungaria,65 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,47.2569,22.5323,47.3567,22.0845,"{""start_point_latitude"": 47.2569, ""start_point_longitude"": 22.5323, ""end_point_latitude"": 47.3567, ""end_point_longitude"": 22.0845}",succeeded,
+BIHOR,Valea Ierului,Tarcea – frontieră cu Ungaria,31 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,47.4572,22.175,47.49,21.89,"{""start_point_latitude"": 47.4572, ""start_point_longitude"": 22.175, ""end_point_latitude"": 47.49, ""end_point_longitude"": 21.89}",succeeded,
+BIHOR,Canalul colector,Tărian – Tămașda,61 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,47.0762,21.7773,46.6445,21.5568,"{""start_point_latitude"": 47.0762, ""start_point_longitude"": 21.7773, ""end_point_latitude"": 46.6445, ""end_point_longitude"": 21.5568}",succeeded,
+BIHOR,Culișer,Salonta – frontieră cu Ungaria,30 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.8025,21.6594,46.8,20.92,"{""start_point_latitude"": 46.8025, ""start_point_longitude"": 21.6594, ""end_point_latitude"": 46.8, ""end_point_longitude"": 20.92}",succeeded,
+BIHOR,Râul Corhana,Homorog – frontieră cu Ungaria,8 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.8316983,21.7467284,46.835,21.64,"{""start_point_latitude"": 46.8316983, ""start_point_longitude"": 21.7467284, ""end_point_latitude"": 46.835, ""end_point_longitude"": 21.64}",succeeded,
+BIHOR,Canalul Cefa III,Cefa – Rădvani,47 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.9145,21.71408,46.88944,21.66194,"{""start_point_latitude"": 46.9145, ""start_point_longitude"": 21.71408, ""end_point_latitude"": 46.88944, ""end_point_longitude"": 21.66194}",succeeded,
+BIHOR,Canalul Cefa IV,"Amenajarea piscicolă Cefa – frontieră cu 
+Ungaria",5 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.9145,21.7141,46.915,21.649,"{""start_point_latitude"": 46.9145, ""start_point_longitude"": 21.7141, ""end_point_latitude"": 46.915, ""end_point_longitude"": 21.649}",succeeded,
+BIHOR,Râul Holod,Copăceni – conf. cu râul Crișul Negru,22 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.77275,22.18987,46.77083,22.03,"{""start_point_latitude"": 46.77275, ""start_point_longitude"": 22.18987, ""end_point_latitude"": 46.77083, ""end_point_longitude"": 22.03}",succeeded,
+BIHOR,Canalul Tăut – Barmod,Tăut – conf. Canal colector T-T,30 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.7199,21.8384,46.65,21.9,"{""start_point_latitude"": 46.7199, ""start_point_longitude"": 21.8384, ""end_point_latitude"": 46.65, ""end_point_longitude"": 21.9}",succeeded,
+BIHOR,Văratic,Cârligate – Șuștiu,22 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.7103726,22.6220889,46.5003487,22.4578617,"{""start_point_latitude"": 46.7103726, ""start_point_longitude"": 22.6220889, ""end_point_latitude"": 46.5003487, ""end_point_longitude"": 22.4578617}",succeeded,
+BIHOR,Râul Crișul Negru mijlociu,"Conf. Valea Băița Ștei) – conf. cu râul Crișul 
+Pietros",25 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.48,22.69,46.62361,22.37806,"{""start_point_latitude"": 46.48, ""start_point_longitude"": 22.69, ""end_point_latitude"": 46.62361, ""end_point_longitude"": 22.37806}",succeeded,
+BIHOR,Râul Crișul Repede inferior,pod Bratca – baraj Vadu Crișului,21 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.933333,22.616667,46.983333,22.516667,"{""start_point_latitude"": 46.933333, ""start_point_longitude"": 22.616667, ""end_point_latitude"": 46.983333, ""end_point_longitude"": 22.516667}",succeeded,
+BIHOR,Râul Crișul Negru inferior,conf. râul Crișul Pietros – conf. Valea Finișului,12 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.62361,22.37806,46.65,22.32,"{""start_point_latitude"": 46.62361, ""start_point_longitude"": 22.37806, ""end_point_latitude"": 46.65, ""end_point_longitude"": 22.32}",succeeded,
+BIHOR,Râul Tărcăița,izvoare – conf. cu râul Crișul Negru,20 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.653,22.476,46.5887,22.335,"{""start_point_latitude"": 46.653, ""start_point_longitude"": 22.476, ""end_point_latitude"": 46.5887, ""end_point_longitude"": 22.335}",succeeded,
+BIHOR,Topa – Holod,izvoare – pod sat Corbești,15 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,47.00167,22.33528,46.88749,22.23666,"{""start_point_latitude"": 47.00167, ""start_point_longitude"": 22.33528, ""end_point_latitude"": 46.88749, ""end_point_longitude"": 22.23666}",succeeded,
+BIHOR,Râul  Roșia,izvoare – Valea Toplicului,66 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.82944,22.42889,,,"{""start_point_latitude"": 46.82944, ""start_point_longitude"": 22.42889, ""end_point_latitude"": null, ""end_point_longitude"": null}",succeeded,
+BIHOR,Valea Buduresei,izvoare – conf. cu râul Crișul Negru,28 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.71,22.58,46.749,22.5,"{""start_point_latitude"": 46.71, ""start_point_longitude"": 22.58, ""end_point_latitude"": 46.749, ""end_point_longitude"": 22.5}",succeeded,
+BIHOR,Râul Crișul Repede Mijlociu,bariera Bucea – conf. cu Valea Brătcuței,25 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",30 / 10.10. 2017,46.9491,22.6948,46.92,22.63,"{""start_point_latitude"": 46.9491, ""start_point_longitude"": 22.6948, ""end_point_latitude"": 46.92, ""end_point_longitude"": 22.63}",succeeded,
+BIHOR,Râul Poiana,izvoare – conf. cu Valea Băiței,30 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,46.95,22.48,46.7,22.25,"{""start_point_latitude"": 46.95, ""start_point_longitude"": 22.48, ""end_point_latitude"": 46.7, ""end_point_longitude"": 22.25}",succeeded,
+BIHOR,Râul Peța,izvoare – conf. Cu Râul Crișul Repede,,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,46.575,22.129,46.684,21.926,"{""start_point_latitude"": 46.575, ""start_point_longitude"": 22.129, ""end_point_latitude"": 46.684, ""end_point_longitude"": 21.926}",succeeded,
+BIHOR,Valea Dobricionești,izvoare – conf. cu Râul Crișul Repede,,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,47.01,22.48,46.945,22.48,"{""start_point_latitude"": 47.01, ""start_point_longitude"": 22.48, ""end_point_latitude"": 46.945, ""end_point_longitude"": 22.48}",succeeded,
+BIHOR,Valea Mișidului,izvoare – conf. cu Râul Crișul Repede,,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,46.96,22.4,46.9131,22.4673,"{""start_point_latitude"": 46.96, ""start_point_longitude"": 22.4, ""end_point_latitude"": 46.9131, ""end_point_longitude"": 22.4673}",succeeded,
+BIHOR,Valea Sighiștelului,izvoare - conf. cu Râul Crișul Băița,,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,46.51361,22.61972,46.54139,22.45917,"{""start_point_latitude"": 46.51361, ""start_point_longitude"": 22.61972, ""end_point_latitude"": 46.54139, ""end_point_longitude"": 22.45917}",succeeded,
+BIHOR,Râul Crișul Băița,izvoare – conf. cu Râul Crișul Negru,28 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,46.66222,22.51917,46.53576,22.45575,"{""start_point_latitude"": 46.66222, ""start_point_longitude"": 22.51917, ""end_point_latitude"": 46.53576, ""end_point_longitude"": 22.45575}",succeeded,
+BIHOR,Valea Bistrei,izvoare – conf. cu râul Barcău,40 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,47.18,22.5,47.3466,22.3415,"{""start_point_latitude"": 47.18, ""start_point_longitude"": 22.5, ""end_point_latitude"": 47.3466, ""end_point_longitude"": 22.3415}",succeeded,
+BIHOR,Valea Șoimului,"la izvoare, loc. Pestiș , oraș Aleșd – conf. râul 
+Crișul Repede",12 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,47.088,22.375,47.0572,22.3969,"{""start_point_latitude"": 47.088, ""start_point_longitude"": 22.375, ""end_point_latitude"": 47.0572, ""end_point_longitude"": 22.3969}",succeeded,
+BIHOR,Valea Gepiș,"izvoare, loc. Groși – conf. cu râul Crișul Repede",7 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,47.06,22.48,47.035,22.487,"{""start_point_latitude"": 47.06, ""start_point_longitude"": 22.48, ""end_point_latitude"": 47.035, ""end_point_longitude"": 22.487}",succeeded,
+BIHOR,Valea Omului,"izvoare, loc. Luncșoara – conf. cu râul Crișul 
+Repede",7 Km,"AJVPS BIHOR 
+cu sediul în  
+localitatea Oradea, 
+Piața Emanuil Gojdu, 
+nr. 53, bl. A10, județ 
+Bihor",61/26.07.2018,47.0368,22.5399,47.0369,22.4964,"{""start_point_latitude"": 47.0368, ""start_point_longitude"": 22.5399, ""end_point_latitude"": 47.0369, ""end_point_longitude"": 22.4964}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Bistrița,Podul Mijlocenii Bârgăului – conf. Șieu,25 km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",10 / 13. 09. 2017,,,,,,failed,'search_google_maps_text'
+BISTRIȚA - NĂSĂUD,Pârâul Rosua,Izvoare – conf. Șieu.,12 km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",10 / 13. 09. 2017,47.55664,24.67084,47.1722,24.2962,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.67084, ""end_point_latitude"": 47.1722, ""end_point_longitude"": 24.2962}",succeeded,
+BISTRIȚA - NĂSĂUD,Jelna,Izvoare – podul de ciment Budacul de sus,12 km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",10 / 13. 09. 2017,,,,,,failed,'search_google_maps_text'
+BISTRIȚA - NĂSĂUD,Lacul Izvorul(Măgurii),Natural,"0,2 Ha","AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,,,,,,failed,'search_google_maps_text'
+BISTRIȚA - NĂSĂUD,Râul Bistrița,Podul Mijlocenii Bârgăului – conf. Șieu,25 km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",10 / 13. 09. 2017,47.2153,24.695,47.0524,24.4117,"{""start_point_latitude"": 47.2153, ""start_point_longitude"": 24.695, ""end_point_latitude"": 47.0524, ""end_point_longitude"": 24.4117}",succeeded,
+BISTRIȚA - NĂSĂUD,Jelna,Izvoare – podul de ciment Budacul de sus,12 km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",10 / 13. 09. 2017,47.1167,24.5667,47.0667,24.65,"{""start_point_latitude"": 47.1167, ""start_point_longitude"": 24.5667, ""end_point_latitude"": 47.0667, ""end_point_longitude"": 24.65}",succeeded,
+BISTRIȚA - NĂSĂUD,Lacul Izvorul(Măgurii),Natural,"0,2 Ha","AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.3175,24.749,47.315833,24.751,"{""start_point_latitude"": 47.3175, ""start_point_longitude"": 24.749, ""end_point_latitude"": 47.315833, ""end_point_longitude"": 24.751}",succeeded,
+BISTRIȚA - NĂSĂUD,Lacul Tăul zânelor,Natural,"0,8 Ha","AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.1194,24.9928,47.1176,24.994,"{""start_point_latitude"": 47.1194, ""start_point_longitude"": 24.9928, ""end_point_latitude"": 47.1176, ""end_point_longitude"": 24.994}",succeeded,
+BISTRIȚA - NĂSĂUD,Lacul Colibița,Artificial,300 Ha,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.228,24.884,47.112,24.91,"{""start_point_latitude"": 47.228, ""start_point_longitude"": 24.884, ""end_point_latitude"": 47.112, ""end_point_longitude"": 24.91}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Anieș,Izvoare – conf. râul Someșul Mare,46 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.49639,24.74028,47.41222,24.76889,"{""start_point_latitude"": 47.49639, ""start_point_longitude"": 24.74028, ""end_point_latitude"": 47.41222, ""end_point_longitude"": 24.76889}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Țibleș,Izvoare – conf. râul Someșul Mare,40 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.5566,24.6708,47.2625,24.297,"{""start_point_latitude"": 47.5566, ""start_point_longitude"": 24.6708, ""end_point_latitude"": 47.2625, ""end_point_longitude"": 24.297}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Sălăuța  Superioară,Izvoare – conf. pârâul Bumbului,75 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.67084,47.46,24.69,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.67084, ""end_point_latitude"": 47.46, ""end_point_longitude"": 24.69}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Sălăuța  Inferioară,"Conf. Pârâul Bumbului - conf. râul Someșul 
+Mare",70 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.34,24.31,47.3213,24.3714,"{""start_point_latitude"": 47.34, ""start_point_longitude"": 24.31, ""end_point_latitude"": 47.3213, ""end_point_longitude"": 24.3714}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Gersa,Izvoare – conf. râul Someșul Mare,26 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.67084,47.28768,24.45109,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.67084, ""end_point_latitude"": 47.28768, ""end_point_longitude"": 24.45109}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Cormaia,Izvoare – conf. râul Someșul Mare,41 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.670841,47.38083,24.69778,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.670841, ""end_point_latitude"": 47.38083, ""end_point_longitude"": 24.69778}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Someșul Mare inferior,Pod Cartibav – conf. râul  Ilva Mică,41 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.43,24.87,47.305,24.666,"{""start_point_latitude"": 47.43, ""start_point_longitude"": 24.87, ""end_point_latitude"": 47.305, ""end_point_longitude"": 24.666}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Valea Ilvei,Izvoare – conf. râul Someșul Mare,61 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.670841,47.312831,24.650484,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.670841, ""end_point_latitude"": 47.312831, ""end_point_longitude"": 24.650484}",succeeded,
+BISTRIȚA - NĂSĂUD,Pârâul Iliuța,Izvoare – conf. râul Valea Ilvei,17 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.67084,47.36467,24.97128,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.67084, ""end_point_latitude"": 47.36467, ""end_point_longitude"": 24.97128}",succeeded,
+BISTRIȚA - NĂSĂUD,Pârâul Valea Leșului,Izvoare – conf. râul Valea Ilvei,55 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.67084,47.362,24.963,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.67084, ""end_point_latitude"": 47.362, ""end_point_longitude"": 24.963}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Bistrița,"Conf. pârâul Pietroasa – podul  Mijlocenii 
+Bârgăului",28 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.1737,24.7778,47.2159,24.6894,"{""start_point_latitude"": 47.1737, ""start_point_longitude"": 24.7778, ""end_point_latitude"": 47.2159, ""end_point_longitude"": 24.6894}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Colibița superioară,Izvoare – vărsare în lacul Colibița,21 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.55664,24.670841,47.17,24.897,"{""start_point_latitude"": 47.55664, ""start_point_longitude"": 24.670841, ""end_point_latitude"": 47.17, ""end_point_longitude"": 24.897}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Colibița inferioară,Aval baraj Colibița – conf. pârâul Pietroasa,31 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.16393,24.87602,47.102,24.83,"{""start_point_latitude"": 47.16393, ""start_point_longitude"": 24.87602, ""end_point_latitude"": 47.102, ""end_point_longitude"": 24.83}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Bordușelu,Izvoare – conf. râul Budacul inferior,18 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.36948,24.66904,47.21,24.62,"{""start_point_latitude"": 47.36948, ""start_point_longitude"": 24.66904, ""end_point_latitude"": 47.21, ""end_point_longitude"": 24.62}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Budacul superior,Izvoare – podul de ciment Budacul de Sus,26 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.36948,24.66904,47.06111,24.6575,"{""start_point_latitude"": 47.36948, ""start_point_longitude"": 24.66904, ""end_point_latitude"": 47.06111, ""end_point_longitude"": 24.6575}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Budacul inferior,"Podul de ciment Budacul de Sus – conf. râul 
+Bordușelu",9 Km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud",82/11.04.2019,47.0613,24.6574,47.1067,24.6256,"{""start_point_latitude"": 47.0613, ""start_point_longitude"": 24.6574, ""end_point_latitude"": 47.1067, ""end_point_longitude"": 24.6256}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Someșul Mare,Pod Feldru-Ciceu Mihăiești,61km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud","140/351/22.01.1988 
+ACT ADIȚIONAL 
+Nr. 5/22.12.2020",47.278,24.5937,47.0933,24.4146,"{""start_point_latitude"": 47.278, ""start_point_longitude"": 24.5937, ""end_point_latitude"": 47.0933, ""end_point_longitude"": 24.4146}",succeeded,
+BISTRIȚA - NĂSĂUD,Râul Șieu,Izvoare-conf. Someșul Mare,68km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud","140/351/22.01.1988 
+ACT ADIȚIONAL 
+Nr. 5/22.12.2020",47.5566,24.6708,47.1967,24.2305,"{""start_point_latitude"": 47.5566, ""start_point_longitude"": 24.6708, ""end_point_latitude"": 47.1967, ""end_point_longitude"": 24.2305}",succeeded,
+BISTRIȚA - NĂSĂUD,Pârâul Lechința,Izvoare-conf. Șieu,22km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud","140/351/22.01.1988 
+ACT ADIȚIONAL 
+Nr. 5/22.12.2020",47.17,24.37,47.0878953,24.3160278,"{""start_point_latitude"": 47.17, ""start_point_longitude"": 24.37, ""end_point_latitude"": 47.0878953, ""end_point_longitude"": 24.3160278}",succeeded,
+BISTRIȚA - NĂSĂUD,Pârâul Meleș,Izvoare-conf. Someșul Mare,30km,"AJVPS BISTRIȚA-
+NĂSĂUD 
+cu sediul în  
+localitatea Bistrița, 
+str. Făzănăriei,nr.7, 
+județ Bistrița-Năsăud","140/351/22.01.1988 
+ACT ADIȚIONAL 
+Nr. 5/22.12.2020",47.3,24.78,47.15,24.49,"{""start_point_latitude"": 47.3, ""start_point_longitude"": 24.78, ""end_point_latitude"": 47.15, ""end_point_longitude"": 24.49}",succeeded,
+BOTOȘANI,"Lac de acumulare  
+Stânca -  Costești",Județ Botoșani,59Ha,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.9264,27.1856,47.8583,27.2586,"{""start_point_latitude"": 47.9264, ""start_point_longitude"": 27.1856, ""end_point_latitude"": 47.8583, ""end_point_longitude"": 27.2586}",succeeded,
+BOTOȘANI,Râul Siret,Văscăuți – Turbata - Tudora,107 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.9539,28.5103,47.5085,26.6324,"{""start_point_latitude"": 47.9539, ""start_point_longitude"": 28.5103, ""end_point_latitude"": 47.5085, ""end_point_longitude"": 26.6324}",succeeded,
+BOTOȘANI,Râul Molnița,Mihăileni – Talpa,14 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.9670751,26.1429047,47.9019359,26.2363042,"{""start_point_latitude"": 47.9670751, ""start_point_longitude"": 26.1429047, ""end_point_latitude"": 47.9019359, ""end_point_longitude"": 26.2363042}",succeeded,
+BOTOȘANI,Râul Pleșu,Tudora – Pleșu,11 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.5075,26.6346,47.5176,26.6921,"{""start_point_latitude"": 47.5075, ""start_point_longitude"": 26.6346, ""end_point_latitude"": 47.5176, ""end_point_longitude"": 26.6921}",succeeded,
+BOTOȘANI,Râul Sirețel,Ionășeni – Bucecea,12 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.73,26.994,47.767,26.433,"{""start_point_latitude"": 47.73, ""start_point_longitude"": 26.994, ""end_point_latitude"": 47.767, ""end_point_longitude"": 26.433}",succeeded,
+BOTOȘANI,Gârla Huțani,Huțani – Corni,11 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.70944,26.48556,47.64583,26.57472,"{""start_point_latitude"": 47.70944, ""start_point_longitude"": 26.48556, ""end_point_latitude"": 47.64583, ""end_point_longitude"": 26.57472}",succeeded,
+BOTOȘANI,Râul Bahna,Dersca – Lunca,10 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.9895,26.2103,47.8831,26.2721,"{""start_point_latitude"": 47.9895, ""start_point_longitude"": 26.2103, ""end_point_latitude"": 47.8831, ""end_point_longitude"": 26.2721}",succeeded,
+BOTOȘANI,Râul Vorona,Vorona – Teodoru – Joldești,13 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,47.59668,26.64482,47.55891,26.57634,"{""start_point_latitude"": 47.59668, ""start_point_longitude"": 26.64482, ""end_point_latitude"": 47.55891, ""end_point_longitude"": 26.57634}",succeeded,
+BOTOȘANI,Prut– fără lacul Stânca,Oroftiana de Sus – Bădărăi,194 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",64/26.07.2018,48.133333,26.416667,47.59007,27.381967,"{""start_point_latitude"": 48.133333, ""start_point_longitude"": 26.416667, ""end_point_latitude"": 47.59007, ""end_point_longitude"": 27.381967}",succeeded,
+BOTOȘANI,Râul Ghireni,Dealul Pustei – Mitoc,21 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.1536123,26.8853699,48.0983832,27.022699,"{""start_point_latitude"": 48.1536123, ""start_point_longitude"": 26.8853699, ""end_point_latitude"": 48.0983832, ""end_point_longitude"": 27.022699}",succeeded,
+BOTOȘANI,Râul Volovăț,Culmea Dărăbani – Ripiceni,45 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.1866,26.5968,47.9477,27.1437,"{""start_point_latitude"": 48.1866, ""start_point_longitude"": 26.5968, ""end_point_latitude"": 47.9477, ""end_point_longitude"": 27.1437}",succeeded,
+BOTOȘANI,Râul  Corogea,Murguța – Sărata,34 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,47.82161,27.13147,47.91526,27.07841,"{""start_point_latitude"": 47.82161, ""start_point_longitude"": 27.13147, ""end_point_latitude"": 47.91526, ""end_point_longitude"": 27.07841}",succeeded,
+BOTOȘANI,Râul Bașeu,Suharău – Românești,106 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.1177184,26.436573,47.7320574,27.2347088,"{""start_point_latitude"": 48.1177184, ""start_point_longitude"": 26.436573, ""end_point_latitude"": 47.7320574, ""end_point_longitude"": 27.2347088}",succeeded,
+BOTOȘANI,Râul Podul Plopii,Cristinești – Plevna,9 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.1,26.3833,48.1039,26.4534,"{""start_point_latitude"": 48.1, ""start_point_longitude"": 26.3833, ""end_point_latitude"": 48.1039, ""end_point_longitude"": 26.4534}",succeeded,
+BOTOȘANI,Râul Ursoiu,Vatra vărsare – Bașeu,10 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.14721,26.53691,48.1406,26.49586,"{""start_point_latitude"": 48.14721, ""start_point_longitude"": 26.53691, ""end_point_latitude"": 48.1406, ""end_point_longitude"": 26.49586}",succeeded,
+BOTOȘANI,Pietroaia,Sărata vărsare - Bașeu,13 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,47.12,26.7,47.07667,26.67361,"{""start_point_latitude"": 47.12, ""start_point_longitude"": 26.7, ""end_point_latitude"": 47.07667, ""end_point_longitude"": 26.67361}",succeeded,
+BOTOȘANI,Râul Sărata,Sărata Basarab – Mihăilești,15 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,47.9401,27.0391,47.83,26.95,"{""start_point_latitude"": 47.9401, ""start_point_longitude"": 27.0391, ""end_point_latitude"": 47.83, ""end_point_longitude"": 26.95}",succeeded,
+BOTOȘANI,Râul Bodeasa,Sărata Drăgușeni – Miron Costin,26 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.0745889,26.8185774,47.9403681,26.9509607,"{""start_point_latitude"": 48.0745889, ""start_point_longitude"": 26.8185774, ""end_point_latitude"": 47.9403681, ""end_point_longitude"": 26.9509607}",succeeded,
+BOTOȘANI,Râul Balinți,Havârna – Balinți,10 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.0744,26.6458,48.05,26.6927,"{""start_point_latitude"": 48.0744, ""start_point_longitude"": 26.6458, ""end_point_latitude"": 48.05, ""end_point_longitude"": 26.6927}",succeeded,
+BOTOȘANI,Râul Podriga,Mileanca – Săveni,36 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.09045,26.69413,47.95627,26.86029,"{""start_point_latitude"": 48.09045, ""start_point_longitude"": 26.69413, ""end_point_latitude"": 47.95627, ""end_point_longitude"": 26.86029}",succeeded,
+BOTOȘANI,Râul Jijia,Dersca – Rediu,139 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,47.9895,26.21031,47.53609,27.24264,"{""start_point_latitude"": 47.9895, ""start_point_longitude"": 26.21031, ""end_point_latitude"": 47.53609, ""end_point_longitude"": 27.24264}",succeeded,
+BOTOȘANI,Râul Sitna,Bucecea – Todireni,65 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,47.77265,26.43977,47.61869,27.11263,"{""start_point_latitude"": 47.77265, ""start_point_longitude"": 26.43977, ""end_point_latitude"": 47.61869, ""end_point_longitude"": 27.11263}",succeeded,
+BOTOȘANI,Râul Miletin,Vlădeni – Miletin,78 Km,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,47.707764,26.521615,47.48139,27.06306,"{""start_point_latitude"": 47.707764, ""start_point_longitude"": 26.521615, ""end_point_latitude"": 47.48139, ""end_point_longitude"": 27.06306}",succeeded,
+BOTOȘANI,Râul Baranca Hudești,Hudești – Baranca,"9,54 Ha","AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.14044,26.51613,48.13801,26.3181,"{""start_point_latitude"": 48.14044, ""start_point_longitude"": 26.51613, ""end_point_latitude"": 48.13801, ""end_point_longitude"": 26.3181}",succeeded,
+BOTOȘANI,Râul Baranca Nouă,Hudești – Baranca,"1,94 Ha","AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.14044,26.51613,48.13801,26.3181,"{""start_point_latitude"": 48.14044, ""start_point_longitude"": 26.51613, ""end_point_latitude"": 48.13801, ""end_point_longitude"": 26.3181}",succeeded,
+BOTOȘANI,Bajura,Darabani – Bajura,"10,01 Ha","AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",17 / 14. 09. 2017,48.18638889,26.58916667,48.1975,26.54,"{""start_point_latitude"": 48.18638889, ""start_point_longitude"": 26.58916667, ""end_point_latitude"": 48.1975, ""end_point_longitude"": 26.54}",succeeded,
+BOTOȘANI,Acumularea Negreni,Județ Botoșani,290 Ha,"AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",86/10.01.2024,48.049352,26.674066,47.959352,26.808066,"{""start_point_latitude"": 48.049352, ""start_point_longitude"": 26.674066, ""end_point_latitude"": 47.959352, ""end_point_longitude"": 26.808066}",succeeded,
+BOTOȘANI,Acumularea Curtești (Rai),"Județ botoșani, în proximitatea orașului 
+Botoșani","31,35 Ha","AJVPS BOTOȘANI 
+cu sediul în  
+localitatea Botoșani, 
+Str. Pietonalul 
+Transilvaniei , nr. 4, 
+parter, județ Botoșani",86/10.01.2024,47.7434,26.6445,47.6834,26.7045,"{""start_point_latitude"": 47.7434, ""start_point_longitude"": 26.6445, ""end_point_latitude"": 47.6834, ""end_point_longitude"": 26.7045}",succeeded,
+BRAȘOV,Râul Olt și afluenții săi,loc. Augustin – Veneția de Jos,,"AVPS RUPEA 
+cu sediul în  
+localitatea Rupea, str. 
+Republicii, nr. 119, 
+județ Brașov",14 / 13. 09. 2017,46.0461298,25.5533305,45.875065,25.2122393,"{""start_point_latitude"": 46.0461298, ""start_point_longitude"": 25.5533305, ""end_point_latitude"": 45.875065, ""end_point_longitude"": 25.2122393}",succeeded,
+BRAȘOV,Râul Olt,Lunca Câlnicului  - Feldioara - Augustin,64 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.7521,25.7616,46.0448,25.5546,"{""start_point_latitude"": 45.7521, ""start_point_longitude"": 25.7616, ""end_point_latitude"": 46.0448, ""end_point_longitude"": 25.5546}",succeeded,
+BRAȘOV,Valea Homorod,Izvoare – sat Vlădeni  - vărsare,36 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.6075548,25.6782718,45.76,25.3,"{""start_point_latitude"": 45.6075548, ""start_point_longitude"": 25.6782718, ""end_point_latitude"": 45.76, ""end_point_longitude"": 25.3}",succeeded,
+BRAȘOV,Râul Măieruș,Izvoare – conf. cu râul Olt,17 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.7503,25.3715,45.9,25.5333,"{""start_point_latitude"": 45.7503, ""start_point_longitude"": 25.3715, ""end_point_latitude"": 45.9, ""end_point_longitude"": 25.5333}",succeeded,
+BRAȘOV,Dopca,Izvoare – conf. cu râul Olt,13 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,46.051,25.379,45.9817,25.3822,"{""start_point_latitude"": 46.051, ""start_point_longitude"": 25.379, ""end_point_latitude"": 45.9817, ""end_point_longitude"": 25.3822}",succeeded,
+BRAȘOV,Râul Strâmba,Izvoare -   conf. cu Șinca,18 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.75606,25.16657,45.69969,25.17823,"{""start_point_latitude"": 45.75606, ""start_point_longitude"": 25.16657, ""end_point_latitude"": 45.69969, ""end_point_longitude"": 25.17823}",succeeded,
+BRAȘOV,Râul Geamăna,Izvoare – conf. cu Valea Homorodului,8 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.72,25.41,45.773,25.421,"{""start_point_latitude"": 45.72, ""start_point_longitude"": 25.41, ""end_point_latitude"": 45.773, ""end_point_longitude"": 25.421}",succeeded,
+BRAȘOV,Râul Homorod,Izvoare - Vlădeni,14 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,46.0414,25.2794,45.766917,25.368079,"{""start_point_latitude"": 46.0414, ""start_point_longitude"": 25.2794, ""end_point_latitude"": 45.766917, ""end_point_longitude"": 25.368079}",succeeded,
+BRAȘOV,Valea Mare – Crizbav,Izvoare – conf. cu râul Olt,16 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.88,25.53,45.8308,25.5766,"{""start_point_latitude"": 45.88, ""start_point_longitude"": 25.53, ""end_point_latitude"": 45.8308, ""end_point_longitude"": 25.5766}",succeeded,
+BRAȘOV,Râul Doftana Gârcin,Izvoare – conf. cu râul Tărlungeni,18 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.615,25.75,45.6067,25.7446,"{""start_point_latitude"": 45.615, ""start_point_longitude"": 25.75, ""end_point_latitude"": 45.6067, ""end_point_longitude"": 25.7446}",succeeded,
+BRAȘOV,Râul Tărlungul superior,Izvoare Tărlungeni,37 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.6076,25.6783,45.6499,25.763,"{""start_point_latitude"": 45.6076, ""start_point_longitude"": 25.6783, ""end_point_latitude"": 45.6499, ""end_point_longitude"": 25.763}",succeeded,
+BRAȘOV,Valea Sebeșului,Izvoare – Drum N.I. – vărsare,63 km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.658,24.871,45.713,25.01,"{""start_point_latitude"": 45.658, ""start_point_longitude"": 24.871, ""end_point_latitude"": 45.713, ""end_point_longitude"": 25.01}",succeeded,
+BRAȘOV,Râul Bârsa,"Izvoare – conf. cu Bârsa Fierarului  
+și toți afluenții",74 Km,"AJPS BRAȘOV 
+cu sediul în  
+localitatea Brașov, 
+str. Nicolaie Bălcescu, 
+nr.14, județ Brașov",16 / 13. 09. 2017,45.492,25.354,45.536,25.369,"{""start_point_latitude"": 45.492, ""start_point_longitude"": 25.354, ""end_point_latitude"": 45.536, ""end_point_longitude"": 25.369}",succeeded,
+BRAȘOV,Râul Șercaia inferioară,"conf. cu Valea Strâmba-Drum N.I. Brașov - 
+Făgăraș",27 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.78,25.13,45.58,25.27,"{""start_point_latitude"": 45.78, ""start_point_longitude"": 25.13, ""end_point_latitude"": 45.58, ""end_point_longitude"": 25.27}",succeeded,
+BRAȘOV,Valea Șercaia,Drum N.I. - vărsare,15 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.83081,25.13859,45.8663,25.13225,"{""start_point_latitude"": 45.83081, ""start_point_longitude"": 25.13859, ""end_point_latitude"": 45.8663, ""end_point_longitude"": 25.13225}",succeeded,
+BRAȘOV,Valea Berivoi,Izvoare-Drum N.I. vărsare,28 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.761,24.975,45.756,24.986,"{""start_point_latitude"": 45.761, ""start_point_longitude"": 24.975, ""end_point_latitude"": 45.756, ""end_point_longitude"": 24.986}",succeeded,
+BRAȘOV,Valea Dejani (Săvăstreni),Drum N.I.-  vărsare,5 Km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.71221,24.93186,45.7316,24.9438,"{""start_point_latitude"": 45.71221, ""start_point_longitude"": 24.93186, ""end_point_latitude"": 45.7316, ""end_point_longitude"": 24.9438}",succeeded,
+BRAȘOV,Valea Pojorâtei,"Izvoare-Drum N.I.- vărsare  
+și afluenții",40 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.52,25.34,45.56,25.38,"{""start_point_latitude"": 45.52, ""start_point_longitude"": 25.34, ""end_point_latitude"": 45.56, ""end_point_longitude"": 25.38}",succeeded,
+BRAȘOV,Valea Sâmbetei,"Izvoare-Drum N.I. – vărsare 
+ și afluenții",31 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.6268,24.7922,45.73,24.7878,"{""start_point_latitude"": 45.6268, ""start_point_longitude"": 24.7922, ""end_point_latitude"": 45.73, ""end_point_longitude"": 24.7878}",succeeded,
+BRAȘOV,Valea Viștea Mare,"Izvoare - Drum N.I. – vărsare 
+ și afluenții",34 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.5917,24.7635,45.5569,24.7681,"{""start_point_latitude"": 45.5917, ""start_point_longitude"": 24.7635, ""end_point_latitude"": 45.5569, ""end_point_longitude"": 24.7681}",succeeded,
+BRAȘOV,Valea Ucea Mare,"Izvoare- Combinatul chimic - vărsare  
+și afluenții",17 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.608,24.7167,45.78437,24.66984,"{""start_point_latitude"": 45.608, ""start_point_longitude"": 24.7167, ""end_point_latitude"": 45.78437, ""end_point_longitude"": 24.66984}",succeeded,
+BRAȘOV,Râul Olt și afluenții săi,Veneția de Jos - limita cu jud. Sibiu,,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.87506,25.21224,45.755,25.055,"{""start_point_latitude"": 45.87506, ""start_point_longitude"": 25.21224, ""end_point_latitude"": 45.755, ""end_point_longitude"": 25.055}",succeeded,
+BRAȘOV,Râul Veneția,Izvoare – Conf. râul Olt,22 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.862,25.257,45.8751,25.2122,"{""start_point_latitude"": 45.862, ""start_point_longitude"": 25.257, ""end_point_latitude"": 45.8751, ""end_point_longitude"": 25.2122}",succeeded,
+BRAȘOV,Valea Lisei,Izvoare – conf. Valea Sâmbăta,10 km,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.775,24.815,45.695,24.915,"{""start_point_latitude"": 45.775, ""start_point_longitude"": 24.815, ""end_point_latitude"": 45.695, ""end_point_longitude"": 24.915}",succeeded,
+BRAȘOV,Lac acumulare Voila,Județ Brașov,,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.8167,24.85,45.86,24.8,"{""start_point_latitude"": 45.8167, ""start_point_longitude"": 24.85, ""end_point_latitude"": 45.86, ""end_point_longitude"": 24.8}",succeeded,
+BRAȘOV,Lac acumulare Olteț,Județ  Brașov,,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.715,25.015,45.695,25.035,"{""start_point_latitude"": 45.715, ""start_point_longitude"": 25.015, ""end_point_latitude"": 45.695, ""end_point_longitude"": 25.035}",succeeded,
+BRAȘOV,Lac acumulare Arpașu,până la limita jud. Sibiu,,"AVPS FĂGĂRAȘ 
+cu sediul în  
+localitatea Făgăraș, 
+str. Livezii, nr. 32, 
+județ Brașov","2 / 05.09.2017 
+ACT ADIȚIONAL 
+NR. 1/11.10.2019",45.79154,24.59327,45.75,24.65,"{""start_point_latitude"": 45.79154, ""start_point_longitude"": 24.59327, ""end_point_latitude"": 45.75, ""end_point_longitude"": 24.65}",succeeded,
+BRAȘOV,Lac Urlea,Lac glaciar,2Ha,"APS AQUA CRISIUS 
+cu sediul în  
+localitatea Oradea, 
+str. Mihai Eminescu, 
+nr.15, județ Bihor",83/11.04.2019,45.5943,24.838,45.5965,24.8402,"{""start_point_latitude"": 45.5943, ""start_point_longitude"": 24.838, ""end_point_latitude"": 45.5965, ""end_point_longitude"": 24.8402}",succeeded,
+BRĂILA,Râul Buzău,Jirlău km 183- Voinești km 309,126 km,"AJVPS BRĂILA 
+cu sediul în  
+localitatea Brăila, B-
+dul  Independenței, 
+nr. 10, județ Brăila",3/06.09.2017,45.16407,27.18912,45.40764,27.72094,"{""start_point_latitude"": 45.16407, ""start_point_longitude"": 27.18912, ""end_point_latitude"": 45.40764, ""end_point_longitude"": 27.72094}",succeeded,
+BRĂILA,Râul Siret,Corbu Vechi km 527 -  Șendreni km 576,49 km,"AJVPS BRĂILA 
+cu sediul în  
+localitatea Brăila, B-
+dul  Independenței, 
+nr. 10, județ Brăila",3/06.09.2017,45.4,27.6333,45.4124,27.9276,"{""start_point_latitude"": 45.4, ""start_point_longitude"": 27.6333, ""end_point_latitude"": 45.4124, ""end_point_longitude"": 27.9276}",succeeded,
