@@ -396,13 +396,13 @@ def categorize_habitat(habitat_name):
         str: Category of the habitat (River, Lake/Reservoir, Canal, Stream, Other)
     """
     habitat = str(habitat_name).lower()
-    if any(word in habitat for word in ['râul', 'râu']):
+    if any(word in habitat for word in ['râul', 'râu', 'raul', 'rau']):
         return 'River'
     elif any(word in habitat for word in ['lac', 'balta', 'acumulare']):
         return 'Lake/Reservoir'
     elif any(word in habitat for word in ['canal']):
         return 'Canal'
-    elif any(word in habitat for word in ['pârâul', 'pârâu', 'valea']):
+    elif any(word in habitat for word in ['pârâul', 'pârâu', 'paraul', 'parau', 'valea']):
         return 'Stream'
     else:
         return 'Other'
