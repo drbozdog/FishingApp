@@ -1,0 +1,10 @@
+logs
+data
+.env
+.DS_Store
+.vscode
+__pycache__
+
+!data/ANPA_habitats_contractate_2025_full.csv
+!data/geocoded_output.csv
+!data/processing_status.csv
