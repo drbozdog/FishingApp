@@ -55,6 +55,23 @@ This will:
   - `ANPA_habitats_contractate_2025_full.csv` - ANPA contracted habitats data
   - `hotosm_rou_waterways_lines_kml.kml` - KML file with Romanian waterways
 
+### Project Diagram
+
+```mermaid
+graph TD
+    app["app.py"] --> utils["utils.py"]
+    process["process_waterways.py"] --> utils
+    geocode_proc["processing/geocoding_processor.py"] --> geocode_resp["geocoding_responses.py"]
+    geocode_proc --> agent["agent.py"]
+    geocode_resp --> agent
+    history["history_agent.py"] --> agent
+    geocode_agent["geocoding_agent.py"] --> agent
+    data["data/"] --> app
+    data --> process
+    data --> geocode_proc
+```
+
+
 ## Documentation
 
 ### Habitat Categorization
