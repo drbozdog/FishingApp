@@ -11,7 +11,8 @@ import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # Add parent directory to path
 
 # Assuming geocoding_agent.py is in the same directory or accessible via PYTHONPATH
-from geocoding_responses import run as geocode_with_responses, get_river_segment_coordinates # Import run from geocoding_responses and get_river_segment_coordinates
+from geocoding_responses import run as geocode_with_responses, get_river_segment_coordinates
+from river_identification_responses import identify_river_by_points
 from agent import OpenAIManager # Import OpenAIManager for token tallying
 
 # --- Configuration ---
@@ -112,6 +113,14 @@ def main_etl_process():
                     country='Romania'
                 )
 
+                river_name, _ = identify_river_by_points(
+                    coordinates['start_point_latitude'],
+                    coordinates['start_point_longitude'],
+                    coordinates['end_point_latitude'],
+                    coordinates['end_point_longitude'],
+                    row_data.get('Habitat', 'N/A'),
+                )
+
                 # Prepare output row
                 output_row = row_data.copy()
                 output_row.update({
@@ -119,6 +128,7 @@ def main_etl_process():
                     'start_point_longitude': coordinates['start_point_longitude'],
                     'end_point_latitude': coordinates['end_point_latitude'],
                     'end_point_longitude': coordinates['end_point_longitude'],
+                    'identified_river': river_name,
                     'raw_geocoding_result': json.dumps(coordinates),
                     'processing_status': 'succeeded',
                     'error_message': ''
@@ -135,6 +145,7 @@ def main_etl_process():
                     'start_point_longitude': None,
                     'end_point_latitude': None,
                     'end_point_longitude': None,
+                    'identified_river': None,
                     'raw_geocoding_result': '',
                     'processing_status': 'failed',
                     'error_message': str(e)

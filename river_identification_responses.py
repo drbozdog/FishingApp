@@ -33,6 +33,57 @@ def place_coordinates(name: str, context: str | None = None) -> Dict[str, Any]:
 
 API_BASE = "https://{lang}.wikipedia.org/w/api.php"
 
+def get_rivers(
+    south_lat: float,
+    west_lon: float,
+    north_lat: float,
+    east_lon: float,
+) -> str:
+    """
+    Retrieve all OpenStreetMap rivers inside a bounding box.
+
+    Parameters
+    ----------
+    south_lat : float
+        minimum latitude  (south edge)
+    west_lon  : float
+        minimum longitude (west edge)
+    north_lat : float
+        maximum latitude  (north edge)
+    east_lon  : float
+        maximum longitude (east edge)
+
+    Returns
+    -------
+    str
+        Raw JSON string returned by the Overpass API.
+
+    Notes
+    -----
+    * The bounding box must be **south,west,north,east** (Overpass requirement).
+    * The query fetches *ways* **and** *relations* tagged ``waterway=river``.
+    * Request geometries so we have the actual river linestrings.
+    """
+
+    query = f"""
+    [out:json][timeout:25];
+    (
+      way["waterway"="river"]({south_lat},{west_lon},{north_lat},{east_lon});
+      relation["waterway"="river"]({south_lat},{west_lon},{north_lat},{east_lon});
+    );
+    (._;>;);
+    out body;
+    """
+
+    resp = requests.post(
+        "https://overpass-api.de/api/interpreter",
+        data=query.encode("utf-8"),
+        headers={"Accept-Charset": "utf-8"},
+        timeout=60,
+    )
+    resp.raise_for_status()
+    return resp.text
+
 def wikipedia_search(query: str, limit: int, language: str) -> Dict[str, Any]:
     """Search Wikipedia articles in a specific language."""
     # Ensure limit is an integer
@@ -128,6 +179,7 @@ TOOL_FUNCS = {
     "place_coordinates": place_coordinates,
     "wikipedia_search":  wikipedia_search,
     "wikipedia_explore": wikipedia_explore,
+    "get_rivers": get_rivers,
 }
 
 # ───────────────────  2.  SYSTEM MESSAGE  ───────────────────
@@ -242,14 +294,70 @@ def get_river_segment_coordinates(
     # Extract coordinates
     return extract_coordinates_structured(conversation)
 
-if __name__ == "__main__":
-    # Example usage of the new function
-    coordinates = get_river_segment_coordinates(
-        county="ALBA",
-        river_name="Râul Poșaga",
-        segment="pârâul Săgagea – confluence with Râul Arieșul Mare",
-        length="10 km",
-        country="Romania"
+def identify_river_by_bbox(
+    south_lat: float,
+    west_lon: float,
+    north_lat: float,
+    east_lon: float,
+    river_hint: str,
+    padding_km: float = 50.0,
+) -> tuple[str, list]:
+    """Identify the river inside a bounding box.
+
+    ``river_hint`` is the expected river name. The bounding box is expanded by
+    ``padding_km`` in all directions before querying. The assistant uses the
+    ``get_rivers`` tool to list rivers in the area and returns the matching
+    river name.
+    """
+
+    pad_deg = padding_km / 111.0
+    south = south_lat - pad_deg
+    west = west_lon - pad_deg
+    north = north_lat + pad_deg
+    east = east_lon + pad_deg
+
+    question = (
+        f"Find the river named '{river_hint}' inside the bounding box with "
+        f"coordinates ({south}, {west}, {north}, {east}) given as south,west," 
+        "north,east. Use the get_rivers tool to fetch the list of rivers and "
+        "return the matching name exactly as found in that list."
     )
-    print("\nExtracted Coordinates:")
-    print(json.dumps(coordinates, indent=2))
+
+    return run(question)
+
+def identify_river_by_points(
+    start_lat: float,
+    start_lon: float,
+    end_lat: float,
+    end_lon: float,
+    river_hint: str,
+    padding_km: float = 50.0,
+) -> tuple[str, list]:
+    """Identify the river using the bounding box defined by two points."""
+
+    south = min(start_lat, end_lat)
+    north = max(start_lat, end_lat)
+    west = min(start_lon, end_lon)
+    east = max(start_lon, end_lon)
+
+    return identify_river_by_bbox(south, west, north, east, river_hint, padding_km)
+
+if __name__ == "__main__":
+    # Hard-coded example for testing river identification
+    coordinates = {
+        "start_point_latitude": 46.66222,
+        "start_point_longitude": 22.51917,
+        "end_point_latitude": 46.53576,
+        "end_point_longitude": 22.45575,
+    }
+    river_hint = "Râul Crișul Băița"
+
+    river_name, _ = identify_river_by_points(
+        coordinates["start_point_latitude"],
+        coordinates["start_point_longitude"],
+        coordinates["end_point_latitude"],
+        coordinates["end_point_longitude"],
+        river_hint,
+    )
+    print("\nIdentified river:")
+    print(river_name)
